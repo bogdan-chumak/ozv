@@ -1,0 +1,10 @@
+# Site settings
+title: Лекції для студентів СК ЛНАУ
+email: bogdan.chumak@gmail.com
+description: Лекції для студентів СК ЛНАУ
+baseurl: "/ozv"
+url: "http://bogdan-chumak.github.io"
+github_username:  bogdan-chumak
+
+# Build settings
+markdown: kramdown
